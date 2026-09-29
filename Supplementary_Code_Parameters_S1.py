@@ -121,4 +121,4 @@ ax.set_ylabel("Water temperature (°C)")
 ax.set_title("b | 10-year stochastic climate scenario", loc="left", fontweight="bold")
 ax.legend(loc="upper left")
 
-fig.savefig('/mnt/data/figure3_reproducible.png', dpi=220)
+fig.savefig('figure3_reproducible.png', dpi=220)
